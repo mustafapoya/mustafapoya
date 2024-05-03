@@ -39,9 +39,12 @@ will_learn: ["pytorch", "TensorFlow"]
 hobbies: ["jogging", "Movie", "Cooking", "Gaming", "Swimming"]
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafapoya&label=Profile%20views&color=0e75b6&style=flat" alt="mustafapoya" /></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=mustafapoya&label=Profile%20views&color=0e75b6&style=flat" alt="mustafapoya" />
+<!-- <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-about%201%20million%20lines%20of%20code-blue" alt="mustafapoya" /> -->
+</p>
 
-<div align="center" style="margin-top: 10px; font-size: 20px; font-weight: bold; margin-bottom: 10px; ">
+<div align="center" style="margin-top: 10px; font-size: 20px; font-weight: bold; margin-bottom: 10px;">
   CONNECT WITH ME: 
 </div>
 <p align="center" style="text-align:center; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
@@ -54,8 +57,6 @@ hobbies: ["jogging", "Movie", "Cooking", "Gaming", "Swimming"]
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafapoya&theme=github-dark-dimmed&custom_title=Mustafa%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-about%2020%20million%20lines%20of%20code-blue)
 
 <p>
 🔭 I’m currently working on Calendar Application <b>Hamdile Calendar</b> Application
