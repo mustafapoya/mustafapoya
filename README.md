@@ -36,7 +36,7 @@ fields_of_interests: ["Web Development", "Backend Development", "Database Develo
 technical_background: ["Software Development", "Desktop App Development",  "Database Development", "Mobile App Development"]
 currently_learning: ["React", "Graphql"]
 will_learn: ["pytorch", "TensorFlow"]
-hobbies: ["jogging", "Movie", "Cooking", "Gaming", "Swimming"]
+hobbies: ["jogging", "Movie", "Cooking", "Swimming"]
 ```
 
 <p align="left">
