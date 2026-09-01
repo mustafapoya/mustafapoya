@@ -35,28 +35,22 @@ education:
     when:   2013 — 2017 (top 3% of class)
 
 experience:
-  - role: Full-Stack Developer
-    at:   Al-Ayn International
+  - role: Full-Stack Developer, Al-Ayn International
     when: 2024 — now
     what: donation platform — API, admin portal, donor app
-  - role: IT Manager
-    at:   Al-Ayn Social Care Foundation
+  - role: IT Manager, Al-Ayn Social Care Foundation
     when: 2022 — 2024
     what: internal systems, network & server infrastructure
-  - role: Founder & Software Developer
-    at:   Golbarg
+  - role: Founder & Software Developer, Golbarg
     when: 2021 — 2022
     what: founded a startup, shipped two products solo
-  - role: Senior MIS Specialist, Head of Unit
-    at:   Ministry of Public Works
+  - role: Senior MIS Specialist, Head of Unit, Ministry of Public Works
     when: 2017 — 2021
     what: architected PMIS & HRMIS, used nationwide
-  - role: Lecturer
-    at:   Khatam Al-Nabieen University
+  - role: Lecturer, Khatam Al-Nabieen University
     when: 2018
     what: taught programming, wrote the curriculum
-  - role: Software Developer
-    at:   Microcis Software Solutions
+  - role: Software Developer, Microcis Software Solutions
     when: 2015 — 2017
     what: desktop & Android apps for customers
 
